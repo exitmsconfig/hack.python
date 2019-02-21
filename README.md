@@ -31,30 +31,30 @@ __Menu__
 | <a href="https://github.com/exitmsconfig/hack.python#验证码识别v1http协议range特性分析">验证码识别v1+HTTP协议Range特性分析.pdf</a> | 验证码识别v1+HTTP协议Range特性分析 |
 | <a href="https://github.com/exitmsconfig/hack.python#基于机器学习tensorflow的复杂验证码识别">基于机器学习(TensorFlow)的复杂验证码识别.pdf</a> | 基于机器学习(TensorFlow)的复杂验证码识别 |
 | <a href="https://github.com/exitmsconfig/Py#scrapy-爬虫测试项目代码在仓库crawl_360目录下">Scrapy爬取站点数据</a> | Scrapy爬取漏洞列表 |
-### proxy_crawl 抓取IP代理
-### attackWiFi.py 一个获取wifi密码的工具
-### TcpPortForward.py Python Sockt端口转发
-### attackSmb.py	添加smb攻击	
-### attackWiFi.py	添加wifi密码破解
-### badtunnel-poc.rb	创建badtunnel-poc.rb
-### crawl.py	轻量级爬虫
-### createDict.py	暴力破解加密的ZIP文件
-### fpm.py	nginx的解析漏洞原理
-### ftpAttack.py	它的演示，线程错误修复，无视错误代码
-### heapq_sort.py	添加黑客自述文件
-### intranetExploit.py	用于局域网的python漏洞利用
-### morse.py	添加摩斯密码加解密
-### ntpDenialService.py	ntp拒绝服务poc代码
-### safe.php	php bug和安全问题
-### sqlInjetct.py	添加sql延时注入poc代码
-### sshAttack.py	它的演示，线程错误修复，无视错误代码
-### synFlood.py	发送TCP SYN数据包耗尽目标主机资源，填满它的连接队列，瘫痪目标TCP重置包的能力
-### test.md	添加黑客自述文件
-### typeEchoShell.php	typeEcho get shell
-### typeEchoShell.py	typeEcho get shell
-### wooyun_index.py	wooyun 2016-7以前乌云公开漏洞
-### zak.py	添加黑客
-### zipattack.py	它的演示，线程错误修复，无视错误代码
+# proxy_crawl 抓取IP代理
+# attackWiFi.py 一个获取wifi密码的工具
+# TcpPortForward.py Python Sockt端口转发
+# attackSmb.py	添加smb攻击	
+# attackWiFi.py	添加wifi密码破解
+# badtunnel-poc.rb	创建badtunnel-poc.rb
+# crawl.py	轻量级爬虫
+# createDict.py	暴力破解加密的ZIP文件
+# fpm.py	nginx的解析漏洞原理
+# ftpAttack.py	它的演示，线程错误修复，无视错误代码
+# heapq_sort.py	添加黑客自述文件
+# intranetExploit.py	用于局域网的python漏洞利用
+# morse.py	添加摩斯密码加解密
+# ntpDenialService.py	ntp拒绝服务poc代码
+# safe.php	php bug和安全问题
+# sqlInjetct.py	添加sql延时注入poc代码
+# sshAttack.py	它的演示，线程错误修复，无视错误代码
+# synFlood.py	发送TCP SYN数据包耗尽目标主机资源，填满它的连接队列，瘫痪目标TCP重置包的能力
+# test.md	添加黑客自述文件
+# typeEchoShell.php	typeEcho get shell
+# typeEchoShell.py	typeEcho get shell
+# wooyun_index.py	wooyun 2016-7以前乌云公开漏洞
+# zak.py	添加黑客
+# zipattack.py	它的演示，线程错误修复，无视错误代码
 
 #工具用途介绍完毕
 
